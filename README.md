@@ -169,3 +169,4 @@ BS Computer Science — DHA Suffa University
 ---
 
 > This project represents an early-stage implementation of a real-world management system using core C programming concepts.
+> clone: 
